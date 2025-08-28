@@ -42,7 +42,6 @@ A full-stack Movie Ticket Booking Web App built with the MERN stack (MongoDB, Ex
 | Database     | MongoDB (Mongoose)                |
 | Auth         | JWT (JSON Web Token)              |
 | Image Upload | Cloudinary                        |
-| Deployment   | Vercel (Frontend), Render (Backend) |
 
 ---
 
@@ -50,7 +49,7 @@ A full-stack Movie Ticket Booking Web App built with the MERN stack (MongoDB, Ex
 
 ### 1. Clone the Repository
 ```
-git clone https://github.com/SmitHaraniya35/cinebooking.git
+git clone https://github.com/DevJivani/Movie-Ticket-Booking.git
 cd cinebooking
 ```
 
